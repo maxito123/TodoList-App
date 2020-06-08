@@ -20546,6 +20546,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\hp\\Desktop\\STARTNG VIDEOS\\CSHARP PRACTICE\\AspNetCoreTodo\\AspNetCoreTodo\\Views\\Todo\\Index.cshtml",
+      "TargetPath": "Views\\Todo\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\hp\\Desktop\\STARTNG VIDEOS\\CSHARP PRACTICE\\AspNetCoreTodo\\AspNetCoreTodo\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
