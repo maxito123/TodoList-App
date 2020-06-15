@@ -5,7 +5,7 @@ using AspNetCoreTodo.Models;
 
 namespace AspNetCoreTodo.Services
 {
-    public class ITodoItemService
+    public interface ITodoItemService
     {
         Task<TodoItem[]> GetIncompleteItemsAsync();
     }
